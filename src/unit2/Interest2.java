@@ -1,4 +1,7 @@
 package unit2;
+/** 
+ * A simple app to calculate simple interest!
+ */
 
 public class Interest2 {
 	public static void main(String args[]){
